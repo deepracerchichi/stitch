@@ -1,0 +1,19 @@
+Subject: Frontend Software Engineer Freelancer - Chinyere Ukpong
+
+Dear GROPYUS Hiring Team,
+
+I am writing to express my strong interest in the Frontend Software Engineer Freelancer position at GROPYUS. With hands-on experience developing interactive 3D/2D canvas applications in React and TypeScript, alongside full-stack capabilities for extending backend services, I am excited about the opportunity to contribute to your 3D parametric visualization platform.
+
+My background aligns closely with the core requirements of this role:
+
+* **Interactive 3D & Canvas Visualization (Aerosub Solutions inspection platform):** As a Frontend Developer, I built interactive 2D/3D and 360-degree panorama viewers featuring precise positioning using Three.js and Canvas-based rendering. Working with Next.js 16, React 19, and TypeScript, I built multi-tenant SaaS features with dynamic routing, managed client state across feature domains using Zustand, and integrated complex REST APIs using Axios.
+* **Cross-Stack & API Development (nestFind & Sheila projects):** Beyond frontend delivery, I have end-to-end experience building RESTful APIs and real-time backend functionality using Node.js, Express, and MongoDB. I have implemented JWT authentication, real-time messaging, and robust testing suites using Vitest and Supertest, enabling me to comfortably contribute to or extend backend endpoints whenever required.
+
+I am fully set up for self-employed/contractor work, available for the estimated 30–40 hours weekly schedule over the 6–8 month timeframe, and ready to collaborate remotely.
+
+I would welcome the opportunity to discuss how my experience with Three.js, React, and full-stack integration can support GROPYUS’s mission. Thank you for your time and consideration.
+
+Best regards,
+
+Chinyere Ukpong  
+[Contact Information]

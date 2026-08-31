@@ -1,0 +1,27 @@
+As a Junior/Graduate Software Engineer, you’ll join a supportive, product‑minded team that values collaboration and clear thinking.
+You’ll work remotely, learn and develop rapidly and help build and enhance our Web SDK that powers Stories used by globally recognised clients, especially in sport. If you’re a sports fan, you’ll enjoy seeing your work live with major organisations.
+This role will provide you with the opportunity to: 
+Ship features end‑to‑end: design, build and test small, well‑scoped improvements to our products
+Make things reliable and fast: fix bugs, add tests, and instrument code so we can measure performance and stability
+Solve real customer problems: collaborate with Product, Design and Delivery to scope simple, pragmatic solutions that work for our clients
+Improve developer experience: contribute to examples, docs and small tools that make integration with our SDKs smooth and enjoyable
+Think from first principles: break problems down, reason about trade‑offs, and pick the simplest approach that works
+Learn in the open: participate in code reviews (giving and receiving feedback), pair with teammates, and share what you’re learning
+Own your work: plan your tasks, communicate progress, and follow through to high‑quality releases
+Contribute to how we build: help refine our CI, test suites and local dev scripts as we scale
+
+QUALIFICATIONS 
+What's important to us: 
+Some experience with TypeScript, Node.js or Python – you’ll use these in our take-home task and day-to-day work. Exposure to React, basic APIs/HTTP or simple databases (SQL/NoSQL) is also valuable
+A genuine excitement for AI and AI‑assisted coding — this is a must‑have. You’re curious about LLMs and actively use (or are eager to use) code assistants and AI APIs to move faster, while verifying outputs with tests and sound reasoning
+Clear problem‑solving: you can break a task down, reason from first principles, and explain trade‑offs simply
+Reliability and follow‑through: you meet agreed timelines, communicate early if blocked
+Openness to feedback: you’re curious, and iterate based on what you learn
+Strong written and verbal communication; you can collaborate well in a remote setting
+Reliable, consistent internet access for remote work
+
+What’s nice to have: 
+Side projects, a small repo, open‑source contributions, or a write‑up showing how you learn
+Familiarity with web SDK’s (TypeScript, React or Node.js) is a strong plus – we also ship iOS and Android SDKs
+Interest in sports, media, or content tech
+Backgrounds we’ve seen succeed include maths, physics, bootcamps, and self‑taught routes - a CS degree is not required

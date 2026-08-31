@@ -1,0 +1,28 @@
+They are looking for a Senior Backend Developer or backend-focused Full-Stack Developer to build integrations with third-party APIs and support the continued development of their multi-tenant SaaS platform.
+Responsibilities
+Build and maintain backend services using TypeScript and NestJS
+Integrate third-party APIs, SDKs, and webhooks
+Design and maintain REST APIs
+Work with PostgreSQL, TypeORM, and database migrations
+Integrate OpenAI, Speech-to-Text, and Text-to-Speech services
+
+Requirements
+5+ years of software development experience
+Strong TypeScript and NestJS experience
+Strong PostgreSQL and TypeORM knowledge
+Experience with REST APIs and third-party integrations
+Experience with multi-tenant SaaS platforms
+Understanding of LLM workflows and OpenAI integrations
+Experience using AI coding tools such as Cursor, Copilot, or Claude Code
+Ability to work independently with minimal supervision
+
+Nice to Have
+Vue 3
+Twilio, Vapi, WebRTC, or ElevenLabs
+Stripe integrations
+BullMQ, pg-boss, or similar background job tools
+Docker and cloud deployment experience
+
+Conditions
+Freelance/B2B contract
+Fully remote work

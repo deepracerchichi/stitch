@@ -1,0 +1,29 @@
+Subject: Freelance Frontend Engineer Application – Chichi [React / TypeScript / 3D Visualization]
+
+Dear GROPYUS Hiring Team,
+
+I am writing to express my strong interest in the **Frontend Software Engineer Freelancer** position. With a solid foundation in React, TypeScript, and hands-on experience developing interactive 2D/3D visual tools, I am excited about GROPYUS’ mission to transform building design through automated planning and parametric visualization.
+
+As a frontend-leaning full-stack engineer, I specialize in turning complex technical data into smooth, intuitive user interfaces. Here is how my background aligns with your team's needs:
+
+*   **3D & Interactive Web Experiences:** I recently developed a multi-tenant SaaS inspection platform featuring integrated 2D/3D and 360° defect viewers. This required optimizing performance, handling spatial data, and managing complex canvas-based states—directly applicable to your 3D parametric visualization platform.
+*   **Modern React & TypeScript Stack:** My core stack centers on React, Next.js, and TypeScript, built with a strong focus on modular component design, clean state management, and strict type safety.
+*   **Domain & Full-Stack Capabilities:** Through projects like *nestFind* (a real-time real estate platform), I’ve built a deep interest in property and building technology. Additionally, my backend experience with Node.js/Express and APIs allows me to seamlessly collaborate with backend teams, extend endpoints, and integrate gRPC/REST services efficiently.
+
+**Logistics & Availability:**
+*   **Setup:** Fully registered self-employed contractor (EU-based).
+*   **Capacity:** Available for the required 30–40 hours per week for the 6–8 month duration (and open to extensions).
+*   **Location:** Working remotely from within the EU.
+
+I thrive in collaborative environments that value ownership, clean architecture, and practical problem-solving. I would love the opportunity to discuss how my experience in 3D web applications and React can help propel GROPYUS' platform forward.
+
+My resume is attached, and you can view my work at [Link to Portfolio/GitHub/LinkedIn].
+
+Thank you for your time and consideration.
+
+Best regards,
+
+**Chichi**  
+Frontend-Leaning Full-Stack Developer  
+[Phone Number] | [Email Address]  
+[LinkedIn Profile] | [GitHub/Portfolio Link]

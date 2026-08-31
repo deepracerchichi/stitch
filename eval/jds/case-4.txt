@@ -1,0 +1,22 @@
+Join a distributed team as a Freelance Software Engineer focused on building and launching user-facing features for a modern web application. You will collaborate closely with design and backend engineers, taking ownership of frontend architecture decisions and contributing to the evolution of a shared component library. This contract role offers real responsibility and the opportunity to make a significant impact on the product’s user experience.
+
+Deliverables
+
+ Develop and maintain production-ready web applications using React, Next.js, and TypeScript
+ Implement and optimize user-facing features with modern CSS and design system components
+ Collaborate with backend engineers to integrate REST or GraphQL APIs
+ Enhance web performance, accessibility, and cross-browser compatibility
+ Contribute to the shared component library and frontend architecture decisions
+ Write and maintain automated tests to ensure code quality and reliability
+ Participate in code reviews and provide constructive feedback to peers
+
+Requirements
+
+ 2–5 years of experience building production web applications with React, TypeScript, and modern CSS
+ Proficiency with Next.js or similar frameworks for server-side rendering and routing
+ Experience integrating REST or GraphQL APIs
+ Familiarity with Node.js and MongoDB is preferred
+ Strong understanding of web performance optimization and accessibility best practices
+ Experience working with design systems and component libraries
+ Ability to work independently, manage time effectively, and communicate clearly in writing
+ Comfortable collaborating in a distributed, remote team environment

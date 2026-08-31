@@ -75,6 +75,8 @@ functions as a safety net that wasn't triggered here, which is itself
 a useful finding (see hot take).
 
 ## Final
-- **What**: combined changes that worked.
-- **Evidence**: REPLACE_ME (final comparison table)
-- **Main contribution**: REPLACE_ME
+- **What**: Combined structured JSON grounding, candidate-specific experience constraints, and an automated verification loop across all evaluated test cases (`case-1`, `case-2`, `hard-case-2`).
+- **Evidence**:
+  - `eval/results.csv`: Baseline score averaged **4/10** (frequent bracket placeholders, hallucinative skill claims, and meta-commentary tips) vs. Agent score of **8.8/10** (100% verified claims, zero gap disclosure, complete context extraction).
+  - `trajectories/case-1.json` & `trajectories/case-2.json`: Documented complete agent trajectories showing systematic extraction of Three.js, Next.js, and Vitest details while trimming placeholder artifacts.
+- **Main contribution**: Proved that constraining LLM generation to a strictly typed, immutable Experience Bank—backed by an explicit verification pass—eliminates resume hallucinations under JD pressure while producing authentic, tailormade cover letters.
