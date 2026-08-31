@@ -1,0 +1,47 @@
+{
+  "candidate_name": "Chinyere Ukpong",
+  "projects": [
+    {
+      "name": "Aerosub Solutions inspection platform",
+      "role": "Frontend Developer",
+      "skills": ["Next.js 16", "React 19", "TypeScript", "Three.js", "Zustand", "Axios", "multi-tenant SaaS", "2D/3D/360 defect viewers"],
+      "bullets": [
+        "Built and maintained features across a multi-tenant SaaS inspection platform using Next.js 16, React 19, and TypeScript with nested dynamic routing.",
+        "Developed interactive 2D/3D and 360-degree panorama viewers with defect positioning using Three.js and Canvas-based rendering.",
+        "Integrated REST APIs throughout the application using Axios, handling authentication, query scoping, error states, and silent token refresh.",
+        "Implemented file upload pipelines using presigned S3 URLs with concurrent workers, real-time progress tracking, and drag-and-drop support.",
+        "Managed client state using Zustand across multiple feature domains and built report generation workflows with PDF and XLSX export."
+      ]
+    },
+    {
+      "name": "nestFind",
+      "role": "Personal project — full-stack real estate platform",
+      "skills": ["Next.js", "Express", "MongoDB", "JWT", "Socket.IO", "Cloudinary", "Vitest", "Supertest"],
+      "bullets": [
+        "Built a full-stack real estate listing platform using Next.js, Express, and MongoDB with JWT-based authentication and role-based access control (user/moderator/admin).",
+        "Implemented real-time buyer-seller messaging with Socket.IO, including per-conversation unread tracking and room-based delivery.",
+        "Designed a listing verification workflow with moderator review, plus rate-limited auth endpoints and Cloudinary-backed image uploads.",
+        "Wrote an integration test suite (Vitest, Supertest, mongodb-memory-server) and deployed the app across Render and Vercel."
+      ]
+    },
+    {
+      "name": "Sheila MERN Stack Web App",
+      "role": "Personal project",
+      "skills": ["Node.js", "Express", "MongoDB", "Mongoose", "Redis", "Upstash"],
+      "bullets": [
+        "Built a full-stack MERN app with a RESTful API (Node.js, Express, MongoDB, Mongoose), implementing CRUD operations connected to React frontend components.",
+        "Integrated Redis caching with Upstash and deployed on Render, maintaining a clean client-server architecture using environment variables."
+      ]
+    }
+  ],
+  "known_gaps": [
+    "No production Kubernetes or container-orchestration experience — Docker exposure is tooling-level (used it as a listed tool), not production deployment/orchestration",
+    "No WordPress experience",
+    "No competitive programming / Codeforces experience"
+  ],
+  "hard_rules": [
+    "Never claim experience, tools, or years not explicitly listed in this file.",
+    "Never explicitly name a known_gap in the output, even to explain it away.",
+    "If a JD heavily emphasizes a known_gap, lead with the closest adjacent real strength instead of addressing the gap directly."
+  ]
+}

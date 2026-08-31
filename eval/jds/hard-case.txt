@@ -1,0 +1,4 @@
+
+
+We are looking for a Full Stack Engineer with strong experience in TypeScript, React, Next.js, and data visualization to join a remote team building modern, visualization-focused applications.
+Key Skills such as Full-stack TypeScript development, Next.js & React, Docker & Cloud Run deployment

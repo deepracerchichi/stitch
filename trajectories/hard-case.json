@@ -1,0 +1,17 @@
+[
+  {
+    "step": "draft",
+    "output": "Subject: Application: Full Stack Engineer - [Your Name]\n\nHi Hiring Team,\n\nI am writing to express my strong interest in the Full Stack Engineer position. With extensive experience building visualization-heavy, production-ready web applications using Next.js, React, and TypeScript, I am excited about the opportunity to contribute to your remote team.\n\nTwo relevant projects that showcase my fit for this role include:\n\n*   **Aerosub Solutions Inspection Platform:** As a Frontend Engineer, I developed interactive 2D/3D/360 defect-positioning viewers using Next.js, React, TypeScript, and Three.js within a multi-tenant SaaS application, directly enabling complex visual data inspection for users.\n*   **nestFind:** As a full-stack real estate platform, I built role-based dashboards and integrated real-time messaging using Next.js, Node.js, Express, MongoDB, JWT, and Socket.IO, including diagnosing and resolving complex socket reconnection and authentication workflows.\n\nMy hands-on experience delivering interactive visualization features alongside full-stack TypeScript architectures aligns closely with your team's focus on modern, data-rich applications. \n\nI would welcome the opportunity to discuss how my full-stack background and visualization experience can support your platform goals. Thank you for your time and consideration.\n\nBest regards,\n\n[Your Name]  \n[Your Contact Information]  \n[Link to Portfolio/GitHub]"
+  },
+  {
+    "step": "verify",
+    "output": {
+      "unsupported_claims": [],
+      "named_gaps": [],
+      "verdict": "pass"
+    }
+  },
+  {
+    "step": "no_revision_needed"
+  }
+]

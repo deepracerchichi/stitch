@@ -1,0 +1,25 @@
+Subject: Application for Entry Level Full Stack Engineer - Chichi [Last Name]
+
+Dear Hiredbuddy Hiring Team,
+
+I am writing to express my strong interest in the Entry Level Full Stack Engineer position at Hiredbuddy. As a frontend-leaning full-stack developer with hands-on experience building web applications using React, Node.js, Express, and MongoDB, I am excited about the opportunity to contribute to your team and grow under Hiredbuddy’s mentorship program.
+
+My technical background aligns directly with your platform's core stack, along with bonus technologies listed in your description:
+
+* **Frontend Expertise:** I have extensive experience building responsive, interactive user interfaces with React and Tailwind. Notably, I developed a multi-tenant SaaS inspection platform featuring custom 2D/3D and 360-degree defect viewers, proving my ability to handle complex frontend requirements. 
+* **Backend & API Development:** I am comfortable designing RESTful APIs and working with NoSQL databases. In my project **nestFind**—a real estate platform—I built a complete backend using Node.js, Express, and MongoDB, implementing secure JWT authentication and real-time messaging functionality.
+* **Bonus Qualifications:** In addition to the core JavaScript ecosystem, I write clean, maintainable code in **TypeScript** (listed as a nice-to-have) and strictly follow Git version control workflows.
+
+As a remote developer, I prioritize clear communication, self-discipline, and proactive collaboration across tools like GitHub, Slack, and Zoom. Hiredbuddy’s commitment to continuous learning, mentorship, and structured progression deeply resonates with me, and I am eager to bring my problem-solving skills and enthusiasm to your engineering team.
+
+I have attached my resume for your review. I would welcome the chance to discuss how my background and projects make me a strong fit for this role.
+
+Thank you for your time and consideration.
+
+Best regards,
+
+Chichi [Last Name]  
+[Your Phone Number]  
+[Your Email Address]  
+[Link to Portfolio/GitHub]  
+[Link to LinkedIn]

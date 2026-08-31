@@ -1,0 +1,19 @@
+Subject: Full Stack Engineer Application - Chinyere Ukpong
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Full Stack Engineer position. I bring hands-on experience building, testing, and deploying full-stack web applications and multi-tenant SaaS platforms, specializing in Node.js, Express, Next.js, TypeScript, and MongoDB.
+
+My experience aligns well with modern full-stack application development across the following projects:
+
+*   **nestFind (Full-Stack Real Estate Platform):** Built a full-stack application using Next.js, Express, and MongoDB with JWT-based authentication and role-based access control. Implemented real-time buyer-seller messaging using Socket.IO (including per-conversation unread tracking and room-based delivery) and built rate-limited authentication endpoints with Cloudinary image uploads. Additionally, I wrote an integration test suite using Vitest, Supertest, and mongodb-memory-server, and managed deployments across Render and Vercel.
+*   **Aerosub Solutions Inspection Platform:** Developed features for a multi-tenant SaaS platform using Next.js 16, React 19, and TypeScript. Integrated REST APIs using Axios to handle authentication, query scoping, error states, and silent token refresh. I also implemented S3 file upload pipelines featuring presigned URLs and concurrent workers, managed application state with Zustand, and constructed 2D/3D and 360-degree panorama viewers with Three.js.
+
+Beyond these, I have experience structuring RESTful APIs with Express and Mongoose, integrating Redis caching (Upstash) to optimize backend workflows, and maintaining clean client-server architectures across deployed environments.
+
+I would welcome the opportunity to discuss how my full-stack skills and project background can contribute to your engineering team. Thank you for your time and consideration.
+
+Best regards,
+
+Chinyere Ukpong  
+[Contact Information]

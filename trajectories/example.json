@@ -1,0 +1,17 @@
+[
+  {
+    "step": "draft",
+    "output": "Subject: Application for Entry Level Full Stack Engineer - [Your Name]\n\nDear Hiring Team at Hiredbuddy,\n\nI am writing to express my strong interest in the Entry Level Full Stack Engineer role at Hiredbuddy. With hands-on experience developing both frontend UIs and backend services using React, Next.js, Node.js, Express, and MongoDB, I am excited about the opportunity to contribute to your platform while continuing to learn and grow within your engineering team.\n\nMy technical background aligns closely with your core stack through the following projects:\n\n* **nestFind (Full-Stack Real Estate Platform):** Developed a full-stack platform using Next.js, Node.js, Express, and MongoDB. I engineered RESTful backend features and data handling in MongoDB, integrated real-time messaging with Socket.IO, and implemented secure authentication and role-based user dashboards using JWT.\n* **Aerosub Solutions Inspection Platform:** As a Frontend Engineer, I utilized React, Next.js, TypeScript, and Three.js to build responsive, interactive user interfaces for a multi-tenant SaaS platform, including specialized 2D/3D/360 defect positioning viewers.\n\nI thrive in self-directed, remote setups and take pride in writing clean, maintainable code across JavaScript, React, Node.js, and MongoDB. I would love the opportunity to bring my problem-solving mindset to Hiredbuddy and contribute to your team's success.\n\nThank you for your time and consideration. I look forward to discussing how my experience fits your team's needs.\n\nBest regards,\n\n[Your Name]  \n[Your Contact Information]  \n[Your Portfolio/GitHub Link]"
+  },
+  {
+    "step": "verify",
+    "output": {
+      "unsupported_claims": [],
+      "named_gaps": [],
+      "verdict": "pass"
+    }
+  },
+  {
+    "step": "no_revision_needed"
+  }
+]
